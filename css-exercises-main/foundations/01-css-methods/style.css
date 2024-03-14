@@ -9,3 +9,9 @@ div {
   font-weight: bold;
   align-self: center;
 }
+
+p {
+  background-color: green;
+  color: white;
+  font-size: 18px;
+}
