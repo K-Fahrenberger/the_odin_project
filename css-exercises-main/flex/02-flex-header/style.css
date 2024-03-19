@@ -1,9 +1,10 @@
-.header  {
+.header {
   font-family: monospace;
   background: papayawhip;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 10px;
 }
 
 .logo {
