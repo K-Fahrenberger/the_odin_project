@@ -30,3 +30,8 @@ img {
   align-items: center;
   gap: 20px;
 }
+
+.container-text-and-image{
+  display: flex;
+  flex-direction: column;
+}
