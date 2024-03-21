@@ -25,3 +25,6 @@ img {
   background: #eee;
 }
 
+.container {
+  display:flex
+}
